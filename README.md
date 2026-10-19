@@ -1,3 +1,5 @@
+![atlas-sector-04](cover.jpg)
+
 Александр. Делаю визуальные концепты игровых сцен: композиция кадра, свет, читаемый HUD.
 
 Сейчас дописываю зону за шлюзом в [atlas-sector-04](https://github.com/8astrik/atlas-sector-04) —
